@@ -1,0 +1,16 @@
+{
+  "name": "3-column-preview-card-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./src/assets/css/tailwind.css -o ./src/assets/css/style.css",
+    "dev": "npx tailwindcss -i ./src/assets/css/tailwind.css -o ./src/assets/css/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
